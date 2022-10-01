@@ -17,7 +17,7 @@ const CategoryPost = ({ posts }) => {
 
       <Head>
           <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1" />
-          <title>Category - RG Media Blog</title>
+          <title>Categories - RG Media Blog</title>
         </Head>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
         <div className="col-span-1 lg:col-span-8">

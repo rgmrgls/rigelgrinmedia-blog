@@ -16,7 +16,7 @@ const PostDetails = ({ post }) => {
     <>
     <Head>
         <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1" />
-        <title>Path - RG Media Blog</title>
+        <title>{post.title} - RG Media Blog</title>
     </Head>
       <div className="container mx-auto px-10 mb-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
